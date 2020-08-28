@@ -574,7 +574,7 @@ Torchic = Pokemon('Torchic', 'Fire', 14, [['Fire Spin','Strength: 15','PP Cost: 
 Mudkip = Pokemon('Mudkip', 'Water', 18, [['Whirlpool','Strength: 16','PP Cost: 6'], ['Mud Sport','Strength: 9', 'PP Cost: 5'], ['Tackle', 'Strength: 6', 'PP Cost: 2']], {'ATTACK': 14, 'DEFENSE': 14, 'SPEED': 17})
 
 
-Ho_Oh = Pokemon('Ho Oh', 'Fire', 50, [['Ancient Power','Strength: 20','PP Cost: 6'], ['Sky Attack', 'Strength: 15', 'PP Cost: 3']], {'ATTACK': 20, 'DEFENSE': 20, 'SPEED': 20})
+Ho_Oh = Pokemon('Ho_Oh', 'Fire', 50, [['Ancient Power','Strength: 20','PP Cost: 6'], ['Sky Attack', 'Strength: 15', 'PP Cost: 3']], {'ATTACK': 20, 'DEFENSE': 20, 'SPEED': 20})
 
 
 #Main function
